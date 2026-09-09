@@ -16,6 +16,4 @@ A desktop-based Pharmacy Inventory Management System developed using Java Swing 
 - MySQL
 - JDBC
 
-## Project Demo
-Demo video available on LinkedIn.
 
