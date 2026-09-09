@@ -40,34 +40,6 @@ A desktop-based Pharmacy Inventory Management System developed using Java Swing,
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-
-![Login Page](images/login-page.png)
-
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Medicine Management
-
-![Medicine Management](images/medicine-management.png)
-
-### Supplier Management
-
-![Supplier Management](images/supplier-management.png)
-
-### Stock Management
-
-![Stock Management](images/stock-management.png)
-
-### Billing Management
-
-![Billing Management](images/billing-management.png)
-
----
-
 ## 🎥 Demo Video
 
 Watch the demo here:
